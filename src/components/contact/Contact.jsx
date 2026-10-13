@@ -7,7 +7,7 @@ function Contact() {
       <span className="section-subtitle">Contact Me</span>
 
       <div className="contact-container container grid">
-        <h3 className="contact-title"></h3>
+        <h3 className="contact-title">Talk to me</h3>
       </div>
     </section>
   );
